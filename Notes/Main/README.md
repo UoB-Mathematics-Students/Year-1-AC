@@ -9,4 +9,3 @@ Cleaning Up
 - `*.log`
 - `*.toc`
 - `*.gz`
-- `*.pdf`
